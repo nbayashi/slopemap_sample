@@ -1,1 +1,0 @@
-# slopemap_sample
